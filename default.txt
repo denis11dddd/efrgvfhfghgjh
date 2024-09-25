@@ -1,0 +1,20 @@
+VERSION = 1,
+
+mods
+{
+	mod = CaptainJuezo1,
+	mod = CaptainJuezo1_WIP,
+	mod = MoreSimpleTraitsVanilla,
+	mod = MoreSimpleTraits,
+	mod = ModTemplate,
+	mod = FORTREDSTONE,
+	mod = Brita_2,
+	mod = ToadTraitsDisableSpec,
+	mod = ToadTraits,
+	mod = ToadTraitsDisablePrepared,
+	mod = Louisville,
+}
+
+maps
+{
+}
